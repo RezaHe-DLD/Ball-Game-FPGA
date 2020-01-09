@@ -1,0 +1,10 @@
+I/O Assignment Analysis Status : Successful - Thu Jan 09 14:27:56 2020
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Web Edition
+Revision Name : game
+Top-level Entity Name : game
+Family : Cyclone III
+Device : EP3C16F484C6
+Timing Models : Final
+Total pins : 10 / 347 ( 3 % )
+Total virtual pins : 0
+Total PLLs : 0 / 4 ( 0 % )
